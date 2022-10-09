@@ -1,0 +1,12 @@
+{
+  "name": "imdb-scrapper",
+  "version": "1.0.0",
+  "description": "IMDb movies review scrapper",
+  "main": "scrapper.js",
+  "repository": "git@github.com:haidarrifki/imdb-scrapper.git",
+  "author": "Muhammad Haidar Rifki",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^18.2.1"
+  }
+}
