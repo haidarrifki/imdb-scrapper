@@ -7,6 +7,7 @@
   "author": "Muhammad Haidar Rifki",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^18.2.1"
+    "csv": "^6.2.1",
+    "puppeteer": "^19.2.2"
   }
 }
