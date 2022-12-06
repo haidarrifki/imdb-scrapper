@@ -30,7 +30,7 @@ async function scrap() {
   await page.goto(url);
 
   const loadMoreSelector = '#load-more-trigger';
-  // get all data until button nya gak ada
+
   for (let i = 0; i < 9999; i++) {
     try {
       await page.waitForSelector(loadMoreSelector);
