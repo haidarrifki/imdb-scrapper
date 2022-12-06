@@ -15,7 +15,7 @@ The IMDB scrapper is easy to use and can save you a lot of time and effort compa
 ## How To
 - ```yarn install``` or ```npm install```
 - ```node scrapper.js [url movie review]```
-eg: ```node scrapper.js https://www.imdb.com/title/tt0468820/reviews```
+- eg: ```node scrapper.js https://www.imdb.com/title/tt0468820/reviews```
 
 ## References
 this project is related to:
